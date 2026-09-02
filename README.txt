@@ -16,7 +16,5 @@ translator/
 |-- app.py
 |-- requirements.txt
 |-- README.txt
-|-- templates/
-|   |-- index.html
-|-- static/
-    |-- style.css
+|-- index.html
+|-- style.css
